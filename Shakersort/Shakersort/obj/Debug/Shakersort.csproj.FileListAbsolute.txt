@@ -1,0 +1,7 @@
+C:\Users\levono\Desktop\Metodos de Busqueda\Shakersort\Shakersort\bin\Debug\Shakersort.exe.config
+C:\Users\levono\Desktop\Metodos de Busqueda\Shakersort\Shakersort\bin\Debug\Shakersort.exe
+C:\Users\levono\Desktop\Metodos de Busqueda\Shakersort\Shakersort\bin\Debug\Shakersort.pdb
+C:\Users\levono\Desktop\Metodos de Busqueda\Shakersort\Shakersort\obj\Debug\Shakersort.csprojAssemblyReference.cache
+C:\Users\levono\Desktop\Metodos de Busqueda\Shakersort\Shakersort\obj\Debug\Shakersort.csproj.CoreCompileInputs.cache
+C:\Users\levono\Desktop\Metodos de Busqueda\Shakersort\Shakersort\obj\Debug\Shakersort.exe
+C:\Users\levono\Desktop\Metodos de Busqueda\Shakersort\Shakersort\obj\Debug\Shakersort.pdb

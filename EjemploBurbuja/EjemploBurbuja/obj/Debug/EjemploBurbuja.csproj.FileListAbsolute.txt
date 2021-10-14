@@ -1,0 +1,7 @@
+C:\Users\tonym\OneDrive\Escritorio\EjemploBurbuja\EjemploBurbuja\bin\Debug\EjemploBurbuja.exe.config
+C:\Users\tonym\OneDrive\Escritorio\EjemploBurbuja\EjemploBurbuja\bin\Debug\EjemploBurbuja.exe
+C:\Users\tonym\OneDrive\Escritorio\EjemploBurbuja\EjemploBurbuja\bin\Debug\EjemploBurbuja.pdb
+C:\Users\tonym\OneDrive\Escritorio\EjemploBurbuja\EjemploBurbuja\obj\Debug\EjemploBurbuja.csprojAssemblyReference.cache
+C:\Users\tonym\OneDrive\Escritorio\EjemploBurbuja\EjemploBurbuja\obj\Debug\EjemploBurbuja.csproj.CoreCompileInputs.cache
+C:\Users\tonym\OneDrive\Escritorio\EjemploBurbuja\EjemploBurbuja\obj\Debug\EjemploBurbuja.exe
+C:\Users\tonym\OneDrive\Escritorio\EjemploBurbuja\EjemploBurbuja\obj\Debug\EjemploBurbuja.pdb

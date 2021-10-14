@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shakersort", "Shakersort\Shakersort.csproj", "{EA8AB88F-25F5-4EEC-BCCD-203B40E1E80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8AB88F-25F5-4EEC-BCCD-203B40E1E80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8AB88F-25F5-4EEC-BCCD-203B40E1E80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8AB88F-25F5-4EEC-BCCD-203B40E1E80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8AB88F-25F5-4EEC-BCCD-203B40E1E80B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C9F8DD-7A7D-46F7-B1F6-EEED9A8DF3D2}
+	EndGlobalSection
+EndGlobal

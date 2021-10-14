@@ -1,0 +1,7 @@
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\BusquedaSecuencial.exe.config
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\BusquedaSecuencial.exe
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\BusquedaSecuencial.pdb
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\BusquedaSecuencial.csprojAssemblyReference.cache
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\BusquedaSecuencial.csproj.CoreCompileInputs.cache
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\BusquedaSecuencial.exe
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\BusquedaSecuencial.pdb

@@ -1,0 +1,14 @@
+C:\Users\levono\Desktop\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe.config
+C:\Users\levono\Desktop\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
+C:\Users\levono\Desktop\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
+C:\Users\levono\Desktop\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csprojAssemblyReference.cache
+C:\Users\levono\Desktop\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\levono\Desktop\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
+C:\Users\levono\Desktop\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb
+C:\Users\levono\Music\Programacion\Metodos de Busqueda\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe.config
+C:\Users\levono\Music\Programacion\Metodos de Busqueda\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
+C:\Users\levono\Music\Programacion\Metodos de Busqueda\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
+C:\Users\levono\Music\Programacion\Metodos de Busqueda\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.AssemblyReference.cache
+C:\Users\levono\Music\Programacion\Metodos de Busqueda\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\levono\Music\Programacion\Metodos de Busqueda\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
+C:\Users\levono\Music\Programacion\Metodos de Busqueda\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb

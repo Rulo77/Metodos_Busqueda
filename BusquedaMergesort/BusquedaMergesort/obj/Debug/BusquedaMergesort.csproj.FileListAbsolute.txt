@@ -1,0 +1,7 @@
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaMergesort\BusquedaMergesort\bin\Debug\BusquedaMergesort.exe.config
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaMergesort\BusquedaMergesort\bin\Debug\BusquedaMergesort.exe
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaMergesort\BusquedaMergesort\bin\Debug\BusquedaMergesort.pdb
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaMergesort\BusquedaMergesort\obj\Debug\BusquedaMergesort.csprojAssemblyReference.cache
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaMergesort\BusquedaMergesort\obj\Debug\BusquedaMergesort.csproj.CoreCompileInputs.cache
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaMergesort\BusquedaMergesort\obj\Debug\BusquedaMergesort.exe
+C:\Users\levono\Desktop\Metodos de Busqueda\BusquedaMergesort\BusquedaMergesort\obj\Debug\BusquedaMergesort.pdb

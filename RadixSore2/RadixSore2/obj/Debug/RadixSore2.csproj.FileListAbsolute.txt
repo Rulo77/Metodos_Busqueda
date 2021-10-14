@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\RadixSore2\RadixSore2\bin\Debug\RadixSore2.exe.config
+C:\Users\franc\Desktop\RadixSore2\RadixSore2\bin\Debug\RadixSore2.exe
+C:\Users\franc\Desktop\RadixSore2\RadixSore2\bin\Debug\RadixSore2.pdb
+C:\Users\franc\Desktop\RadixSore2\RadixSore2\obj\Debug\RadixSore2.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\RadixSore2\RadixSore2\obj\Debug\RadixSore2.exe
+C:\Users\franc\Desktop\RadixSore2\RadixSore2\obj\Debug\RadixSore2.pdb
+C:\Users\levono\Desktop\Metodos de Busqueda\RadixSore2\RadixSore2\bin\Debug\RadixSore2.exe.config
+C:\Users\levono\Desktop\Metodos de Busqueda\RadixSore2\RadixSore2\bin\Debug\RadixSore2.exe
+C:\Users\levono\Desktop\Metodos de Busqueda\RadixSore2\RadixSore2\bin\Debug\RadixSore2.pdb
+C:\Users\levono\Desktop\Metodos de Busqueda\RadixSore2\RadixSore2\obj\Debug\RadixSore2.csprojAssemblyReference.cache
+C:\Users\levono\Desktop\Metodos de Busqueda\RadixSore2\RadixSore2\obj\Debug\RadixSore2.csproj.CoreCompileInputs.cache
+C:\Users\levono\Desktop\Metodos de Busqueda\RadixSore2\RadixSore2\obj\Debug\RadixSore2.exe
+C:\Users\levono\Desktop\Metodos de Busqueda\RadixSore2\RadixSore2\obj\Debug\RadixSore2.pdb
